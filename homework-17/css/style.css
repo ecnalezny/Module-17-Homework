@@ -29,12 +29,12 @@ button{
 
 .footer-item{
     display: inline-block;
-    padding: 15px;
-    margin: 15px;
+    padding: 10px;
+    margin: 5px;
     position: relative;
     left: 0%;
     right: 0%;
-    bottom: auto;
+    bottom: fixed;
     background-color: #FFA612;
     border-radius: 20px; 
 }
@@ -54,4 +54,8 @@ img{
     height: 250px;
     float: left;
     border-radius: 150px;
+}
+footer{
+    background-color: #3D5E3C;
+    border-radius: 20px;
 }
